@@ -8,3 +8,9 @@
 ## Development server
 
 Run `npm start` for a dev server. You are navigating to `http://localhost:4201/`. The app will automatically reload if you change any of the source files.
+
+## now you can open your redux-dev-tool (if see this, reload page with opening redux-dev-tool tab)
+![image](https://user-images.githubusercontent.com/8816260/32723372-45da7292-c87e-11e7-97bb-7df65faf038a.png)
+
+## result in dev tool must be like this
+![image](https://user-images.githubusercontent.com/8816260/32723401-5e4d10aa-c87e-11e7-80df-80a60ec71bd6.png)
