@@ -1,8 +1,7 @@
 # Redux Example with Effects
 
 ## If you have this error. Just `ctrl + s` save and webpack wathcer is recompiling
-![error] (https://rawgit.com/vitalics/ReduxExample/master/ErrorImage.PNG)
-
+![errorimage](https://user-images.githubusercontent.com/8816260/32723104-48617e26-c87d-11e7-91ff-83f9bace42f0.PNG)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
